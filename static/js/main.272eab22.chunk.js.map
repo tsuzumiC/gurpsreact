@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["ReactDOM","render","document","querySelector"],"mappings":"yIAAA,2CAGAA,IAASC,OAAO,yCAAqBC,SAASC,cAAc,Y","file":"static/js/main.272eab22.chunk.js","sourcesContent":["import ReactDOM from \"react-dom\";\r\nimport React from \"react\";\r\n\r\nReactDOM.render(<div>Working!</div>, document.querySelector(\"#root\"));\r\n"],"sourceRoot":""}

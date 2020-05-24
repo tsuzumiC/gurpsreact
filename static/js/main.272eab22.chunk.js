@@ -1,0 +1,2 @@
+(this.webpackJsonpgurpsreact=this.webpackJsonpgurpsreact||[]).push([[0],[,,,function(e,r,t){e.exports=t(4)},function(e,r,t){"use strict";t.r(r);var n=t(2),c=t.n(n),o=t(0),s=t.n(o);c.a.render(s.a.createElement("div",null,"Working!"),document.querySelector("#root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.272eab22.chunk.js.map

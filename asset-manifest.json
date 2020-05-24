@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gurpsreact/static/js/main.272eab22.chunk.js",
+    "main.js.map": "/gurpsreact/static/js/main.272eab22.chunk.js.map",
+    "runtime-main.js": "/gurpsreact/static/js/runtime-main.95703b05.js",
+    "runtime-main.js.map": "/gurpsreact/static/js/runtime-main.95703b05.js.map",
+    "static/js/2.56440028.chunk.js": "/gurpsreact/static/js/2.56440028.chunk.js",
+    "static/js/2.56440028.chunk.js.map": "/gurpsreact/static/js/2.56440028.chunk.js.map",
+    "index.html": "/gurpsreact/index.html",
+    "precache-manifest.11f4be5f45042c78d7f9c6fcb9d0f4a6.js": "/gurpsreact/precache-manifest.11f4be5f45042c78d7f9c6fcb9d0f4a6.js",
+    "service-worker.js": "/gurpsreact/service-worker.js",
+    "static/js/2.56440028.chunk.js.LICENSE.txt": "/gurpsreact/static/js/2.56440028.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95703b05.js",
+    "static/js/2.56440028.chunk.js",
+    "static/js/main.272eab22.chunk.js"
+  ]
+}
